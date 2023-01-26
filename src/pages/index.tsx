@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
         <script 
     type="module"
-    src="https://gradio.s3-us-west-2.amazonaws.com/3.14.0/gradio.js">
+    src="https://gradio.s3-us-west-2.amazonaws.com/3.16.2/gradio.js">
 </script>
       </Head>
       
