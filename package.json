@@ -6,7 +6,6 @@
     "dev": "npx next dev -p 4567",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
   },
   "dependencies": {
     "@next/font": "13.1.5",
