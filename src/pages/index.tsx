@@ -20,7 +20,7 @@ export default function Home() {
       </Head>
       
       <gradio-app
-        space="nateraw/music-visualizer"
+        space="pngwn/music-visualizer"
         initial_height="800px"
       ></gradio-app>
           
