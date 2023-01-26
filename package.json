@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "npx next dev -p 4567",
     "build": "next build",
-    "start": "next start",
+    "start": "next start"
   },
   "dependencies": {
     "@next/font": "13.1.5",
