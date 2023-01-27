@@ -20,7 +20,7 @@ export default function Home() {
       </Head>
       
       <gradio-app
-        space="fabiochiu/sentiment-analysis-demo"
+        src="https://fabiochiu-sentiment-analysis-demo.hf.space"
         initial_height="800px"
       ></gradio-app>
           
